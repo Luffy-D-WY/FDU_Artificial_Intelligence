@@ -1,0 +1,6500 @@
+Bradford B-ORG
+
+" O
+
+Result O
+
+But O
+
+More O
+
+Current O
+
+Boatmen O
+
+Ready O
+
+Mexican B-MISC
+
+Equipment O
+
+Jamaica B-LOC
+
+Division O
+
+Green O
+
+days O
+
+NICE O
+
+At O
+
+1969 O
+
+" O
+
+July O
+
+SOCCER O
+
+The O
+
+1706 O
+
+" O
+
+Northampton B-ORG
+
+Brian B-PER
+
+TOKYO B-LOC
+
+Major B-MISC
+
+Leeson O
+
+LONGYEAR O
+
+Caltex I-ORG
+
+Initially O
+
+Sombre O
+
+NATO B-ORG
+
+3. O
+
+" O
+
+but O
+
+Postponed O
+
+ESCHEN B-PER
+
+8. O
+
+Friday O
+
+Postponed O
+
+Swedish B-MISC
+
+ISSUE O
+
+" O
+
+Scunthorpe B-ORG
+
+Dunvant O
+
+After O
+
+He O
+
+" O
+
+Attendance O
+
+Exeter B-ORG
+
+Women O
+
+Bridgend O
+
+Jim B-PER
+
+In O
+
+New O
+
+Net O
+
+- O
+
+LA B-ORG
+
+Ssangbangwool B-ORG
+
+Former O
+
+Napoleon O
+
+Palestinians B-MISC
+
+Next O
+
+Total O
+
+Edberg I-PER
+
+DALLAS O
+
+City I-LOC
+
+BIRMINGHAM O
+
+Bowling O
+
+I O
+
+It O
+
+June O
+
+An O
+
+" O
+
+We O
+
+1997 O
+
+M. B-PER
+
+Tension O
+
+But O
+
+The O
+
+Wuhan O
+
+NOTE O
+
+Semifinal B-PER
+
+Warwickshire B-ORG
+
+PARIS B-LOC
+
+FRIDAY O
+
+Randall I-PER
+
+Scorers O
+
+Australia B-LOC
+
+lost O
+
+Rotherham B-ORG
+
+This O
+
+Mahala B-LOC
+
+Israel B-LOC
+
+Romania B-LOC
+
+TEXAS B-ORG
+
+TENNIS O
+
+VIENNA B-LOC
+
+NEW B-LOC
+
+Two O
+
+CRICKET O
+
+A O
+
+The O
+
+Russian B-MISC
+
+The O
+
+RUGBY B-ORG
+
+Kansas B-LOC
+
+SOCCER O
+
+SOCCER O
+
+BAGHDAD B-LOC
+
+Larisa O
+
+Attendance O
+
+Luton B-ORG
+
+LONDON B-LOC
+
+Under O
+
+1994 O
+
+At O
+
+" O
+
+The O
+
+A O
+
+Rios I-PER
+
+All B-ORG
+
+German B-MISC
+
+The O
+
+Armenians O
+
+Ronald B-PER
+
+Clinton B-PER
+
+Alexander B-PER
+
+The O
+
+While O
+
+Family-controlled O
+
+By O
+
+Washington B-LOC
+
+Manchester B-ORG
+
+BEIJING B-LOC
+
+UNITED B-ORG
+
+Leboeuf O
+
+Others O
+
+CLEVELAND B-ORG
+
+A O
+
+Puchon B-ORG
+
+" O
+
+Extras O
+
+Baines O
+
+Phil B-PER
+
+MILWAUKEE B-ORG
+
+Controversial O
+
+Ericsson O
+
+Profit O
+
+we O
+
+GLASGOW B-LOC
+
+4. O
+
+As O
+
+Wigan B-ORG
+
+1. O
+
+In O
+
+Palestinian B-MISC
+
+2. O
+
+N. B-PER
+
+Los B-LOC
+
+" O
+
+" O
+
+5. O
+
+Mike B-PER
+
+Results O
+
+The O
+
+CHICAGO B-ORG
+
+CALIFORNIA B-LOC
+
+Atlanta B-MISC
+
+That O
+
+He O
+
+The O
+
+Brown I-PER
+
+Dublin-born O
+
+Stirling O
+
+" O
+
+Florian B-PER
+
+Lebed B-PER
+
+Avg O
+
+Suu O
+
+Estimated O
+
+Division O
+
+South B-LOC
+
+TORONTO B-LOC
+
+The O
+
+Mexican B-MISC
+
+The O
+
+If O
+
+LONDON B-LOC
+
+CHICAGO B-ORG
+
+CRICKET O
+
+Market-making O
+
+The O
+
+PHILADELPHIA B-ORG
+
+6. O
+
+-- O
+
+" O
+
+It O
+
+Australian B-MISC
+
+2007 O
+
+Rosati B-PER
+
+" O
+
+At O
+
+France B-LOC
+
+July O
+
+" O
+
+He O
+
+Following O
+
+5. O
+
+" O
+
+8. O
+
+The O
+
+Foster I-PER
+
+ATLANTA B-ORG
+
+SEATTLE B-ORG
+
+ST B-ORG
+
+Edberg I-PER
+
+MILWAUKEE B-ORG
+
+A O
+
+On O
+
+Mushtaq B-PER
+
+Within O
+
+Vera O
+
+Bruno B-PER
+
+Florida B-ORG
+
+( O
+
+6. O
+
+BUDAPEST B-LOC
+
+The O
+
+" O
+
+The O
+
+Shares O
+
+Barnet B-ORG
+
+NEW B-LOC
+
+Van B-PER
+
+Overseas B-LOC
+
+SOCCER O
+
+France B-LOC
+
+Seles I-PER
+
+Some O
+
+1. O
+
+I O
+
+7 O
+
+The O
+
+Netherlands B-LOC
+
+Olympic B-MISC
+
+The O
+
+4. O
+
+Richard B-PER
+
+Liutauras O
+
+A O
+
+The O
+
+" O
+
+matches O
+
+Former O
+
+KHASAVYURT O
+
+" O
+
+The O
+
+Results O
+
+Bert O
+
+Iraqi B-MISC
+
+Results O
+
+6 O
+
+We O
+
+1930 O
+
+matches O
+
+HOUSTON B-ORG
+
+LONDON B-LOC
+
+LAST O
+
+after O
+
+NATO B-ORG
+
+Chechens B-MISC
+
+Ukraine B-LOC
+
+Harlequins O
+
+Real B-ORG
+
+But O
+
+Palestinian B-MISC
+
+But O
+
+NEW B-LOC
+
+WASHINGTON B-LOC
+
+SEOUL B-LOC
+
+It O
+
+A O
+
+LONDON B-LOC
+
+Speaker O
+
+Greenock O
+
+The O
+
+Lotte B-ORG
+
+Police O
+
+Mehrtens O
+
+These O
+
+In O
+
+L.O. O
+
+Spartak B-ORG
+
+BELGRADE B-LOC
+
+CHICAGO B-ORG
+
+Result O
+
+Moscow B-LOC
+
+Division O
+
+2011 O
+
+London B-ORG
+
+matches O
+
+PANAMA O
+
+Brazil B-LOC
+
+BUCHAREST B-LOC
+
+Result O
+
+They O
+
+Florida B-ORG
+
+Automakers O
+
+" O
+
+American B-MISC
+
+U.S. B-LOC
+
+Scorers O
+
+NEW B-LOC
+
+RUGBY B-ORG
+
+Oil O
+
+" O
+
+8. O
+
+NEW B-LOC
+
+The O
+
+Spending O
+
+The O
+
+An O
+
+LONDON B-LOC
+
+Standings O
+
+" O
+
+A O
+
+The O
+
+Saqlain B-PER
+
+6. O
+
+The O
+
+Think O
+
+Men O
+
+Most O
+
+Albion B-ORG
+
+Former O
+
+The O
+
+U.N. B-ORG
+
+Port B-LOC
+
+ARLINGTON O
+
+Paramilitary B-LOC
+
+Morris B-PER
+
+LANDGRAAF O
+
+U.N. B-ORG
+
+The O
+
+GRONINGEN O
+
+Jansher O
+
+Flavio B-ORG
+
+England B-LOC
+
+won O
+
+YEREVAN O
+
+Nerweyi O
+
+" O
+
+9. O
+
+Attendance O
+
+1996 O
+
+3. O
+
+The O
+
+Conversion O
+
+It O
+
+Most O
+
+Panayiotopoulos B-PER
+
+Traders O
+
+Company O
+
+Earlier O
+
+NOTE O
+
+Scorer O
+
+STOCKS O
+
+Public B-ORG
+
+Extras O
+
+Shearer O
+
+Argentina B-LOC
+
+" O
+
+Leicester B-LOC
+
+In O
+
+-- O
+
+Spain B-LOC
+
+Sletten O
+
+It O
+
+One O
+
+BUCHAREST B-LOC
+
+My O
+
+Saeed B-PER
+
+The O
+
+Houston B-LOC
+
+He O
+
+Lotte B-ORG
+
+Just O
+
+Government O
+
+Hyundai B-ORG
+
+Sihanouk O
+
+Faroe B-PER
+
+1812 O
+
+BOMBAY B-LOC
+
+BERLIN B-LOC
+
+M1 O
+
+Singapore B-LOC
+
+China B-LOC
+
+I O
+
+The O
+
+Surrey B-ORG
+
+Todd B-PER
+
+Several O
+
+Poland B-LOC
+
+ATHLETICS O
+
+Scorers O
+
+Ex-Yankee B-MISC
+
+Steve B-PER
+
+A O
+
+Bristol B-ORG
+
+It O
+
+1. O
+
+2. O
+
+5. O
+
+2. O
+
+" O
+
+NYMEX O
+
+Palestinians B-MISC
+
+Zairean O
+
+He O
+
+Add O
+
+Once O
+
+Pirelli O
+
+Polish B-MISC
+
+Northampton B-ORG
+
+4 O
+
+Queen O
+
+Stoke B-ORG
+
+Incomes O
+
+Montoya O
+
+8. O
+
+5. O
+
+After O
+
+Avg O
+
+However O
+
+Welsh O
+
+It O
+
+Many O
+
+Attendance O
+
+3. O
+
+- O
+
+BONN B-LOC
+
+He O
+
+2005 O
+
+MILWAUKEE B-ORG
+
+Livingston B-ORG
+
+Romania B-LOC
+
+" O
+
+At O
+
+O'Brien I-PER
+
+Halftime O
+
+Fall O
+
+BALTIMORE B-ORG
+
+He O
+
+Notes O
+
+4. O
+
+Net O
+
+" O
+
+Net O
+
+Re-education O
+
+May O
+
+( O
+
+In O
+
+- O
+
+The O
+
+WASHINGTON B-LOC
+
+Potent B-ORG
+
+Ross B-PER
+
+TEXAS B-ORG
+
+10. O
+
+Extras O
+
+BASEBALL O
+
+Gonzalez O
+
+Tajik I-PER
+
+Steve B-PER
+
+Juan B-PER
+
+Estes O
+
+Clinton B-PER
+
+Zycie O
+
+" O
+
+York I-LOC
+
+Attendance O
+
+The O
+
+The O
+
+Irish B-MISC
+
+I O
+
+1. O
+
+R. B-PER
+
+Belgian B-MISC
+
+In O
+
+They O
+
+Libyans O
+
+An O
+
+One O
+
+EASTERN B-MISC
+
+Scorers O
+
+British B-MISC
+
+3. O
+
+Tajik I-PER
+
+65 O
+
+RANGOON O
+
+" O
+
+We O
+
+1714 O
+
+Relations O
+
+Egypt B-LOC
+
+The O
+
+Attendance O
+
+Sutjeska B-ORG
+
+That O
+
+Treasury B-ORG
+
+Scorers O
+
+World B-MISC
+
+Iraq B-LOC
+
+6 O
+
+Bruno B-PER
+
+In O
+
+A O
+
+There O
+
+At O
+
+284 O
+
+5. O
+
+Most O
+
+Sjeng O
+
+He O
+
+BOSTON B-ORG
+
+Chicago B-LOC
+
+Miller I-PER
+
+: O
+
+CHISINAU O
+
+They O
+
+8. O
+
+7. O
+
+The O
+
+Andy B-PER
+
+The O
+
+U.N. B-ORG
+
+Post-mortem O
+
+" O
+
+4. O
+
+Travellers O
+
+More O
+
+BASEBALL O
+
+CRICKET O
+
+West B-LOC
+
+GERMANY O
+
+Azerbaijan B-LOC
+
+1914 O
+
+Johnson B-PER
+
+A O
+
+Results O
+
+8. O
+
+BAGHDAD B-LOC
+
+Teenage O
+
+Deliveries O
+
+Four O
+
+President O
+
+won O
+
+Police O
+
+Yeltsin B-PER
+
+HONG B-LOC
+
+CITIC O
+
+Brentford B-ORG
+
+In O
+
+August O
+
+Standings O
+
+Montrose O
+
+Aamir B-PER
+
+SOCCER O
+
+" O
+
+August O
+
+Seven O
+
+EDMONTON O
+
+The O
+
+BELFAST O
+
+1913 O
+
+The O
+
+Anthony B-PER
+
+Haitai B-ORG
+
+Israel B-LOC
+
+2 O
+
+the O
+
+Although O
+
+1990 O
+
+" O
+
+W O
+
+The O
+
+Baseball O
+
+W O
+
+He O
+
+PITTSBURGH B-ORG
+
+asked O
+
+Pakistan B-LOC
+
+" O
+
+The O
+
+His O
+
+An O
+
+Traders O
+
+" O
+
+It O
+
+LONDON B-LOC
+
+Late O
+
+Interfax B-ORG
+
+He O
+
+2. O
+
+" O
+
+Three O
+
+But O
+
+" O
+
+SOCCER O
+
+Luton B-ORG
+
+Former O
+
+8. O
+
+" O
+
+Suu O
+
+But O
+
+Northern B-ORG
+
+" O
+
+But O
+
+Canada B-LOC
+
+3. O
+
+Winter O
+
+LOS B-ORG
+
+5. O
+
+Total O
+
+" O
+
+TENNIS O
+
+Now O
+
+The O
+
+I O
+
+Jonas B-PER
+
+The O
+
+Derbyshire O
+
+S. B-LOC
+
+" O
+
+" O
+
+U. O
+
+Buddy O
+
+Riot I-PER
+
+Value O
+
+Magna O
+
+August O
+
+Attendance O
+
+PHNOM O
+
+BAKU O
+
+" O
+
+Clydebank O
+
+NEW B-LOC
+
+9-177 B-ORG
+
+The O
+
+20202.87 O
+
+BASEBALL O
+
+World B-MISC
+
+" O
+
+Next O
+
+On O
+
+Bradford B-ORG
+
+Quinn O
+
+Very O
+
+Among O
+
+Jorritsma O
+
+No O
+
+LONDON B-LOC
+
+Rotor B-ORG
+
+ITALY O
+
+Buducnost B-ORG
+
+5647.65 O
+
+Division O
+
+Livingston B-ORG
+
+games O
+
+" O
+
+The O
+
+George B-PER
+
+Yastrzhembsky I-PER
+
+A O
+
+Three O
+
+A O
+
+Late O
+
+Holland O
+
+The O
+
+1996 O
+
+He O
+
+Newport B-ORG
+
+Bernardin O
+
+Shrs O
+
+NEW B-LOC
+
+In O
+
+Yeltsin B-PER
+
+At O
+
+Add O
+
+Syria B-LOC
+
+Noting O
+
+The O
+
+Austria B-LOC
+
+Alloa O
+
+8. O
+
+Refusing O
+
+Men O
+
+We O
+
+He O
+
+Deborah O
+
+At O
+
+Quarter-final O
+
+3. O
+
+After O
+
+The O
+
+CHICAGO B-ORG
+
+Under O
+
+Glamorgan B-ORG
+
+Glamorgan B-ORG
+
+At O
+
+I O
+
+But O
+
+Crystal B-ORG
+
+Minnesota B-ORG
+
+292 O
+
+Tianjin B-ORG
+
+Winner O
+
+National B-ORG
+
+Lucy O
+
+Teams O
+
+Borac O
+
+Men O
+
+Singapore B-LOC
+
+4. O
+
+Newspapers O
+
+Buducnost B-ORG
+
+Rudar O
+
+May O
+
+Mike B-PER
+
+7. O
+
+COLORADO B-LOC
+
+Belgium B-LOC
+
+Slovakia B-LOC
+
+Surrey B-ORG
+
+Year-on-year O
+
+Shrewsbury B-ORG
+
+Former O
+
+United B-LOC
+
+Women O
+
+chief O
+
+3. O
+
+Ata-ur-Rehman B-PER
+
+Ironically O
+
+San B-ORG
+
+COLORADO B-LOC
+
+" O
+
+" O
+
+14. O
+
+Shares O
+
+Former O
+
+The O
+
+We O
+
+September O
+
+HELSINKI B-LOC
+
+Last O
+
+MADRID O
+
+Iraqi B-MISC
+
+Primary O
+
+SANTIAGO O
+
+American B-MISC
+
+British B-MISC
+
+Far O
+
+SEOUL B-LOC
+
+" O
+
+I O
+
+Nato B-MISC
+
+Bristol B-ORG
+
+Spanish B-MISC
+
+MOSCOW B-LOC
+
+DNIB O
+
+China B-LOC
+
+The O
+
+Petr B-PER
+
+MILAN B-ORG
+
+Grimsby B-ORG
+
+August O
+
+But O
+
+Two O
+
+8. O
+
+62 O
+
+Scorers O
+
+A O
+
+3. O
+
+Marion I-PER
+
+7. O
+
+Fire O
+
+The O
+
+WASHINGTON B-LOC
+
+It O
+
+He O
+
+I O
+
+A O
+
+Edberg I-PER
+
+With O
+
+Singapore B-LOC
+
+" O
+
+Division O
+
+San B-ORG
+
+Descriptions O
+
+Shortly O
+
+Richard B-PER
+
+SOCCER O
+
+Prime O
+
+5. O
+
+Dick B-PER
+
+Wk O
+
+He O
+
+Third O
+
+Gonzalez O
+
+Teams O
+
+U.S. B-LOC
+
+MILWAUKEE B-ORG
+
+2000 O
+
+Earnings O
+
+POLISH B-MISC
+
+" O
+
+Standings O
+
+East I-LOC
+
+STOCKHOLM B-LOC
+
+Police O
+
+Iranian B-MISC
+
+SOCCER O
+
+Orrell O
+
+BELGRADE B-LOC
+
+3. O
+
+4. O
+
+He O
+
+But O
+
+A O
+
+Between O
+
+Conversions O
+
+All B-ORG
+
+Seven O
+
+CARDIFF O
+
+Natalia B-PER
+
+Cardiff B-ORG
+
+Ray B-PER
+
+Jeans O
+
+In O
+
+LONDON B-LOC
+
+SOCCER O
+
+East I-LOC
+
+But O
+
+Wall B-LOC
+
+The O
+
+" O
+
+They O
+
+( O
+
+At O
+
+CINCINNATI B-ORG
+
+Leyton B-ORG
+
+Marriner B-PER
+
+World B-MISC
+
+Zemun O
+
+" O
+
+Mladost B-ORG
+
+RUGBY B-ORG
+
+Douglas O
+
+One O
+
+Only O
+
+HONG B-LOC
+
+TOFTIR O
+
+Scoreboard O
+
+Nickel O
+
+Draw O
+
+12. O
+
+Police O
+
+" O
+
+Blackpool B-ORG
+
+Earlier O
+
+1993 O
+
+Queen O
+
+At O
+
+Granma O
+
+NEW B-LOC
+
+More O
+
+Far O
+
+Mexican B-MISC
+
+G. B-PER
+
+5. O
+
+The O
+
+The O
+
+URUS-MARTAN O
+
+291 O
+
+A O
+
+OTTAWA B-LOC
+
+M3 O
+
+Brechin B-ORG
+
+CINCINNATI B-ORG
+
+Ssangbangwool B-ORG
+
+I O
+
+Iran B-LOC
+
+Centre O
+
+Responding O
+
+England B-LOC
+
+4 O
+
+May O
+
+The O
+
+Did O
+
+Geraghty O
+
+At O
+
+The O
+
+BONN B-LOC
+
+Co-Premiers O
+
+Iran B-LOC
+
+Shrs O
+
+Our O
+
+The O
+
+They O
+
+The O
+
+289 O
+
+Inverness O
+
+Of O
+
+Los B-LOC
+
+Mexico B-LOC
+
+1909 O
+
+Roberto B-PER
+
+Megawati B-PER
+
+Russian B-MISC
+
+Lebed B-PER
+
+STIRLING O
+
+A. B-PER
+
+Dow B-MISC
+
+5. O
+
+FLORIDA B-ORG
+
+Israel B-LOC
+
+Six O
+
+" O
+
+M. B-PER
+
+Suu O
+
+" O
+
+Fall O
+
+Net O
+
+G. B-PER
+
+If O
+
+He O
+
+Ipswich B-ORG
+
+In O
+
+MADRID O
+
+5. O
+
+I O
+
+Results O
+
+Chaminda B-PER
+
+DUBLIN O
+
+Reading B-ORG
+
+for O
+
+" O
+
+Coach O
+
+Despite O
+
+Saturday O
+
+SATURDAY O
+
+" O
+
+Net O
+
+Itar-Tass B-ORG
+
+Algerian B-MISC
+
+6. O
+
+1= O
+
+Teams O
+
+Pusan B-ORG
+
+NEW B-LOC
+
+( O
+
+Paper O
+
+Division O
+
+" O
+
+9. O
+
+During O
+
+-- O
+
+Thatcher O
+
+KANSAS B-ORG
+
+-- O
+
+CYCLING O
+
+Ironically O
+
+He O
+
+BELGRADE B-LOC
+
+KPD O
+
+July O
+
+PAYING O
+
+" O
+
+2. O
+
+Darryn I-PER
+
+BOXING I-PER
+
+7. O
+
+" O
+
+The O
+
+Clinton B-PER
+
+NEW B-LOC
+
+bank O
+
+PRESS O
+
+The O
+
+Glenn B-PER
+
+LG B-ORG
+
+Vidadi O
+
+Romania B-LOC
+
+REPUBLIKA O
+
+The O
+
+BUCHAREST B-LOC
+
+Continued O
+
+" O
+
+Wrexham B-ORG
+
+" O
+
+We O
+
+Men O
+
+9. O
+
+Moin B-PER
+
+" O
+
+3. O
+
+Waqar B-PER
+
+The O
+
+Government O
+
+M. B-PER
+
+Investors I-ORG
+
+The O
+
+The O
+
+The O
+
+Election O
+
+Ceasefire O
+
+Lebed B-PER
+
+Fights O
+
+German B-MISC
+
+N'DJAMENA O
+
+LOS B-ORG
+
+The O
+
+Before O
+
+What O
+
+Shr O
+
+the O
+
+W O
+
+Xiao O
+
+This O
+
+LONDON B-LOC
+
+Belgium B-LOC
+
+Wigan B-ORG
+
+The O
+
+Whoever O
+
+But O
+
+5. O
+
+8. O
+
+Scarborough B-ORG
+
+They O
+
+2006 O
+
+mph O
+
+A.de O
+
+Fall O
+
+The O
+
+Australia B-LOC
+
+Death O
+
+Add O
+
+Norwich B-ORG
+
+Naina O
+
+The O
+
+Janet O
+
+Erdmann O
+
+While O
+
+Total O
+
+The O
+
+Kim B-PER
+
+Two O
+
+CENTRAL B-MISC
+
+Henke O
+
+" O
+
+BERLIN B-LOC
+
+England B-LOC
+
+The O
+
+St B-ORG
+
+MOTOR O
+
+( O
+
+I O
+
+It O
+
+Cofinec B-ORG
+
+MONTE O
+
+OFK B-ORG
+
+Oxford B-ORG
+
+In O
+
+But O
+
+LONDON B-LOC
+
+" O
+
+Jordan B-LOC
+
+An O
+
+Yeltsin B-PER
+
+He O
+
+Nigerian B-MISC
+
+An O
+
+Twenty-three O
+
+FRIDAY O
+
+NABLUS B-ORG
+
+Australia B-LOC
+
+Watched O
+
+RUGBY B-ORG
+
+And O
+
+Nickel O
+
+Lebed B-PER
+
+When O
+
+6= O
+
+JOHANNESBURG B-LOC
+
+2. O
+
+" O
+
+Carroll O
+
+Lebed B-PER
+
+SOCCER O
+
+6-2 O
+
+Viljoen B-PER
+
+" O
+
+" O
+
+CHICAGO B-ORG
+
+ESCHEN B-PER
+
+1940 O
+
+May O
+
+It O
+
+June O
+
+Samsung B-ORG
+
+June O
+
+That O
+
+NEW B-LOC
+
+MOSCOW B-LOC
+
+Queens B-ORG
+
+" O
+
+The O
+
+Duran O
+
+Haitai B-ORG
+
+Henke O
+
+South B-LOC
+
+They O
+
+Barentsburg O
+
+Women O
+
+4. O
+
+Pohang B-ORG
+
+Results O
+
+Spain B-LOC
+
+U.N. B-ORG
+
+He O
+
+6. O
+
+WARSAW B-LOC
+
+2. O
+
+Over O
+
+SOCCER O
+
+Colchester B-LOC
+
+Grand I-MISC
+
+If O
+
+Rumors O
+
+A O
+
+Haitai B-ORG
+
+SK B-ORG
+
+After O
+
+against O
+
+Cofinec B-ORG
+
+" O
+
+" O
+
+3. O
+
+Bob B-PER
+
+NORTHAMPTON B-LOC
+
+One O
+
+Daniels B-PER
+
+Henke O
+
+SATURDAY O
+
+Consumer O
+
+The O
+
+Bristol B-ORG
+
+BASKETBALL O
+
+2. O
+
+1836 O
+
+" O
+
+BRUSSELS B-LOC
+
+M O
+
+There O
+
+Spending O
+
+Walsall B-ORG
+
+The O
+
+Sami O
+
+2001 O
+
+Standings O
+
+PARIS B-LOC
+
+Bolton B-ORG
+
+SOCCER O
+
+Woods O
+
+Two O
+
+June O
+
+DETROIT B-ORG
+
+" O
+
+Last O
+
+Germany B-LOC
+
+MINNESOTA B-ORG
+
+Wang B-PER
+
+After O
+
+The O
+
+The O
+
+LAGOS B-LOC
+
+Clinton B-PER
+
+DETROIT B-ORG
+
+" O
+
+The O
+
+It O
+
+NEW B-LOC
+
+" O
+
+If O
+
+1. O
+
+SOCCER O
+
+Professor O
+
+OB B-ORG
+
+" O
+
+Division O
+
+Birmingham B-LOC
+
+An O
+
+The O
+
+NOUAKCHOTT O
+
+Baltimore B-LOC
+
+Partick O
+
+Stirling O
+
+The O
+
+8. O
+
+Fredericks B-PER
+
+Xiao O
+
+" O
+
+Welsh O
+
+JAKARTA B-LOC
+
+" O
+
+Police O
+
+I O
+
+SEATTLE B-ORG
+
+OAKLAND B-ORG
+
+Pakistan B-LOC
+
+Eight O
+
+7-6 O
+
+D. B-PER
+
+Hong B-LOC
+
+Beck O
+
+U.S. B-LOC
+
+Scorers O
+
+The O
+
+Top O
+
+2. O
+
+4. O
+
+They O
+
+World B-MISC
+
+Warwickshire B-ORG
+
+LONDON B-LOC
+
+ST B-ORG
+
+" O
+
+" O
+
+Leading O
+
+Instead O
+
+Police O
+
+NATIONAL B-MISC
+
+St B-ORG
+
+Mansfield B-ORG
+
+Albright O
+
+The O
+
+The O
+
+CRICKET O
+
+" O
+
+The O
+
+WASHINGTON B-LOC
+
+MONTREAL B-ORG
+
+Chernomyrdin I-PER
+
+NSW O
+
+Interfax B-ORG
+
+64 O
+
+" O
+
+Zycie O
+
+" O
+
+Cunningham I-PER
+
+The O
+
+I O
+
+BASKETBALL O
+
+PARIS B-LOC
+
+Reading B-ORG
+
+IPO B-ORG
+
+In O
+
+" O
+
+KeyCorp O
+
+Euro B-MISC
+
+Burma B-LOC
+
+Chen O
+
+Douglas O
+
+" O
+
+3. O
+
+Analysts O
+
+BRUSSELS B-LOC
+
+Yuri I-PER
+
+Arbroath B-ORG
+
+His O
+
+He O
+
+" O
+
+6. O
+
+" O
+
+World B-MISC
+
+WESTERN B-MISC
+
+2. O
+
+The O
+
+Some O
+
+Lukashenko O
+
+J. B-PER
+
+Atlanta B-MISC
+
+IRVINE O
+
+Turkey B-LOC
+
+Local O
+
+A O
+
+But O
+
+CHICAGO B-ORG
+
+The O
+
+" O
+
+5. O
+
+After O
+
+" O
+
+" O
+
+Algerian B-MISC
+
+. O
+
+6. O
+
+Australia B-LOC
+
+Most O
+
+7-0-32-0 O
+
+Notts B-ORG
+
+Benetton B-ORG
+
+NEW B-LOC
+
+BASKETBALL O
+
+Bruno B-PER
+
+CYCLING O
+
+In O
+
+-- O
+
+" O
+
+Final O
+
+Vojvodina O
+
+" O
+
+The O
+
+Urus-Martan O
+
+2. O
+
+The O
+
+MILWAUKEE B-ORG
+
+COLOMBO B-LOC
+
+Men O
+
+The O
+
+47-47 O
+
+5. O
+
+Camacho O
+
+Results O
+
+5. O
+
+Pilgrims O
+
+Mouldi O
+
+Sherbatov O
+
+Estes O
+
+16. O
+
+Sri B-LOC
+
+Hendrik O
+
+The O
+
+Trailing O
+
+Burma B-LOC
+
+Canadian B-MISC
+
+4. O
+
+Their O
+
+Add O
+
+All B-ORG
+
+He O
+
+" O
+
+Representatives I-ORG
+
+CALIFORNIA B-LOC
+
+SOCCER O
+
+5. O
+
+8. O
+
+SOCCER O
+
+6. O
+
+Panama O
+
+After O
+
+Lukashenko O
+
+Mona O
+
+Attendance O
+
+Kurdistan B-ORG
+
+The O
+
+Police O
+
+" O
+
+December O
+
+While O
+
+Arafat B-PER
+
+Syria B-LOC
+
+-- O
+
+I O
+
+London B-ORG
+
+Jed-Forest O
+
+" O
+
+WESTERN B-MISC
+
+Darren B-PER
+
+" O
+
+" O
+
+3885.0 O
+
+Douglas O
+
+Belgrade B-LOC
+
+They O
+
+Around O
+
+6. O
+
+However O
+
+It O
+
+Saturday O
+
+Jasper O
+
+Jones I-PER
+
+New O
+
+Statistics O
+
+" O
+
+" O
+
+3. O
+
+1. O
+
+Results O
+
+Some O
+
+SQUASH O
+
+" O
+
+Albright O
+
+The O
+
+Cambridge B-ORG
+
+Gold O
+
+Penalties O
+
+" O
+
+In O
+
+BALTIMORE B-ORG
+
+CHICAGO B-ORG
+
+" O
+
+Crewe B-ORG
+
+On O
+
+Manila O
+
+He O
+
+The O
+
+F.A. B-MISC
+
+Bristol B-ORG
+
+Women O
+
+Their O
+
+CALIFORNIA B-LOC
+
+Pirelli O
+
+ATHLETICS O
+
+Samsung B-ORG
+
+Lukashenko O
+
+Louis I-ORG
+
+1986 O
+
+" O
+
+Wang B-PER
+
+Green O
+
+Scorers O
+
+The O
+
+Note O
+
+Much O
+
+Attendance O
+
+July O
+
+Police O
+
+As O
+
+Banisadr B-PER
+
+Duran O
+
+between O
+
+U.S. B-LOC
+
+KHASAVYURT O
+
+standings O
+
+S. B-LOC
+
+Switzerland B-LOC
+
+Russian B-MISC
+
+CLEVELAND B-ORG
+
+The O
+
+MARTELA O
+
+4 O
+
+" O
+
+SOCCER O
+
+Daughter O
+
+" O
+
+Friday O
+
+Inhabited O
+
+Swindon B-ORG
+
+Samsung B-ORG
+
+The O
+
+1. O
+
+W O
+
+I O
+
+6. O
+
+Li B-PER
+
+Marty B-PER
+
+Shrewsbury B-ORG
+
+Fears O
+
+Hereford B-ORG
+
+Hla O
+
+BRUSSELS B-LOC
+
+NEW B-LOC
+
+Their O
+
+GENEVA B-LOC
+
+HOUSTON B-ORG
+
+" O
+
+Net O
+
+Nyerere O
+
+286 O
+
+Buyoya I-PER
+
+Boxing-Bruno O
+
+English B-MISC
+
+CRICKET O
+
+The O
+
+CLEVELAND B-ORG
+
+The O
+
+12. O
+
+" O
+
+Russian B-MISC
+
+6= O
+
+Klinsmann B-PER
+
+1996-08-30 O
+
+He O
+
+Six O
+
+Wales B-LOC
+
+Flamboyant O
+
+" O
+
+66 O
+
+At O
+
+SOCCER O
+
+7. O
+
+Longyear B-MISC
+
+" O
+
+Radnicki B-LOC
+
+Airdrieonians O
+
+Two O
+
+Around O
+
+Portsmouth B-LOC
+
+Brisk O
+
+Sweden B-LOC
+
+Some O
+
+BASEBALL O
+
+" O
+
+. O
+
+( O
+
+Benard O
+
+U.S. B-LOC
+
+Orders O
+
+NYMEX O
+
+JOHANNESBURG B-LOC
+
+They O
+
+Polish B-MISC
+
+Ata-ur-Rehman B-PER
+
+Bury B-ORG
+
+" O
+
+Darlington B-ORG
+
+Saturday O
+
+Suwan O
+
+4. O
+
+The O
+
+The O
+
+ISTANBUL O
+
+Standings O
+
+Police O
+
+-- O
+
+Broker O
+
+SEOUL B-LOC
+
+" O
+
+A O
+
+But O
+
+It O
+
+Scottish B-MISC
+
+Birmingham B-LOC
+
+France B-LOC
+
+Puig O
+
+Milwaukee B-ORG
+
+Burnley B-ORG
+
+Next O
+
+Hill I-PER
+
+Shells O
+
+Obilic B-ORG
+
+Reaser O
+
+Australia B-LOC
+
+KOMPAS O
+
+PARAMARIBO B-LOC
+
+Buducnost B-ORG
+
+290 O
+
+Officials O
+
+Attendance O
+
+U.S. B-LOC
+
+He O
+
+It O
+
+Public B-ORG
+
+Results O
+
+CRICKET O
+
+Cambridge B-ORG
+
+It O
+
+Thomas B-PER
+
+Brazil B-LOC
+
+The O
+
+Only O
+
+COLOMBO B-LOC
+
+Summary O
+
+Brad B-PER
+
+6. O
+
+He O
+
+Division O
+
+But O
+
+It O
+
+PHILADELPHIA B-ORG
+
+He O
+
+CHICAGO B-ORG
+
+" O
+
+goals O
+
+" O
+
+Following O
+
+May O
+
+Borac O
+
+UK B-LOC
+
+TOKYO B-LOC
+
+SOCCER O
+
+Blue-chip O
+
+We O
+
+The O
+
+The O
+
+Right O
+
+7. O
+
+5. O
+
+Sometimes O
+
+Clyde B-LOC
+
+The O
+
+Radnicki B-LOC
+
+At O
+
+BASEBALL O
+
+Attendance O
+
+Benes O
+
+Telephone O
+
+South B-LOC
+
+Last O
+
+Larry O
+
+Kansas B-LOC
+
+He O
+
+Iraq B-LOC
+
+Montrose O
+
+2. O
+
+I O
+
+In O
+
+Ponting B-PER
+
+Bournemouth B-ORG
+
+Separately O
+
+Torquay B-ORG
+
+1. O
+
+Clyde B-LOC
+
+He O
+
+St B-ORG
+
+It O
+
+The O
+
+7. O
+
+Fire O
+
+Total O
+
+3. O
+
+Traders O
+
+The O
+
+Scoreboard O
+
+U.S. B-LOC
+
+" O
+
+I O
+
+It O
+
+I O
+
+1. O
+
+BOXING I-PER
+
+" O
+
+Texas B-ORG
+
+But O
+
+She O
+
+Italian B-MISC
+
+Representatives I-ORG
+
+I O
+
+Essex B-ORG
+
+10. O
+
+LONDON B-LOC
+
+Chicago B-LOC
+
+Wigan B-ORG
+
+A O
+
+Roger B-PER
+
+Nice B-ORG
+
+May O
+
+Dutch B-MISC
+
+Eyles B-MISC
+
+July O
+
+Police O
+
+- O
+
+In O
+
+Japanese B-MISC
+
+Attendance O
+
+The O
+
+Easier O
+
+2 O
+
+Baseball-Results B-ORG
+
+I O
+
+Hizbollah B-ORG
+
+Results O
+
+U.S.-led B-MISC
+
+Division O
+
+BUCHAREST B-LOC
+
+CINCINNATI B-ORG
+
+MILAN B-ORG
+
+SAN B-LOC
+
+Tens O
+
+Add O
+
+Lead O
+
+Swansea B-ORG
+
+Queen O
+
+Assault O
+
+Ericsson O
+
+LATEST O
+
+Results O
+
+Bowling O
+
+Palestinian B-MISC
+
+Ijaz B-PER
+
+Under O
+
+Nikkei B-MISC
+
+Matt B-ORG
+
+China B-LOC
+
+GOLF O
+
+Somerset B-ORG
+
+Bowling O
+
+The O
+
+The O
+
+6. O
+
+Adams I-PER
+
+6,739-yard O
+
+EASTERN B-MISC
+
+He O
+
+Jansher O
+
+UK B-LOC
+
+Hajduk B-ORG
+
+SEATTLE B-ORG
+
+It O
+
+track O
+
+4. O
+
+Playing O
+
+" O
+
+BOSTON B-ORG
+
+The O
+
+Tin O
+
+He O
+
+Treorchy O
+
+elected O
+
+Security I-ORG
+
+But O
+
+BONN B-LOC
+
+6. O
+
+Britain B-LOC
+
+" O
+
+11. O
+
+World B-MISC
+
+MANCHESTER B-LOC
+
+Philippine B-PER
+
+WARSAW B-LOC
+
+Their O
+
+Reuters B-ORG
+
+Sales O
+
+Watford B-ORG
+
+8. O
+
+He O
+
+With O
+
+SOCCER O
+
+Ssangbangwool B-ORG
+
+7. O
+
+The O
+
+" O
+
+More O
+
+NEW B-LOC
+
+Alba B-ORG
+
+1. O
+
+" O
+
+Tiger O
+
+Hartlepool B-ORG
+
+Hanwha B-ORG
+
+Greenock O
+
+LONDON B-LOC
+
+Mazeikyte O
+
+The O
+
+Canada B-LOC
+
+I O
+
+Use O
+
+A O
+
+The O
+
+Her O
+
+The O
+
+The O
+
+FTSE B-MISC
+
+5. O
+
+4. O
+
+OB B-ORG
+
+Edwards B-LOC
+
+The O
+
+The O
+
+The O
+
+Before O
+
+4. O
+
+SOCCER O
+
+I. B-PER
+
+During O
+
+BOSTON B-ORG
+
+In O
+
+W O
+
+6. O
+
+A O
+
+Brunswijk B-PER
+
+The O
+
+Sloboda B-ORG
+
+I O
+
+Tarango O
+
+Berwick B-ORG
+
+McGwire O
+
+Jakarta B-LOC
+
+on O
+
+LONDON B-LOC
+
+Millwall O
+
+There O
+
+Boatmen O
+
+Singapore B-LOC
+
+The O
+
+This O
+
+Wang B-PER
+
+Forfar B-PER
+
+MOSCOW B-LOC
+
+20. O
+
+A. B-PER
+
+3. O
+
+Mariano B-PER
+
+on O
+
+Romania B-LOC
+
+Honiball O
+
+7. O
+
+3. O
+
+Henke O
+
+NEW B-LOC
+
+CRICKET O
+
+2. O
+
+1ST O
+
+It O
+
+- O
+
+An O
+
+BOXING I-PER
+
+Pohang B-ORG
+
+Tour B-MISC
+
+Jones I-PER
+
+He O
+
+Result O
+
+1. O
+
+Buying O
+
+The O
+
+Sheffield B-ORG
+
+LA B-ORG
+
+Albion B-ORG
+
+Cukaricki B-ORG
+
+Canada B-LOC
+
+Other O
+
+SOCCER O
+
+The O
+
+MINSK O
+
+1= O
+
+DHAKA B-LOC
+
+DUBLIN O
+
+Women O
+
+BUCHAREST B-LOC
+
+3. O
+
+Women O
+
+The O
+
+2009 O
+
+Middlesex B-ORG
+
+19. O
+
+Karlsruhe B-ORG
+
+September O
+
+Ramos O
+
+The O
+
+The O
+
+Yeltsin B-PER
+
+Wood I-PER
+
+" O
+
+LONDON B-LOC
+
+For O
+
+Comelf O
+
+An O
+
+CAPE B-LOC
+
+LATEST O
+
+But O
+
+CENTRAL B-MISC
+
+David B-PER
+
+Billy B-PER
+
+Leading O
+
+SAN B-LOC
+
+----- O
+
+Sri B-LOC
+
+" O
+
+6. O
+
+ATLANTA B-ORG
+
+He O
+
+Mishi O
+
+Silver O
+
+Missing O
+
+Did O
+
+Fifth O
+
+Magna O
+
+Results O
+
+August O
+
+Chinese B-MISC
+
+BALTIMORE B-ORG
+
+- O
+
+Attendancce O
+
+Scotland B-LOC
+
+Keith O
+
+DETROIT B-ORG
+
+Partizan B-ORG
+
+Six O
+
+Federal B-ORG
+
+( O
+
+Benetton B-ORG
+
+3. O
+
+Sloboda B-ORG
+
+Chinese B-MISC
+
+Attendance O
+
+Chicago B-LOC
+
+metres O
+
+R. B-PER
+
+Extras O
+
+Lebed B-PER
+
+LONDON B-LOC
+
+said O
+
+France B-LOC
+
+St. B-LOC
+
+SOCCER O
+
+It O
+
+LONDON B-LOC
+
+Defending O
+
+Representatives I-ORG
+
+At O
+
+The O
+
+" O
+
+Bosnia B-LOC
+
+-- O
+
+If O
+
+Surgeons O
+
+Trevor O
+
+We O
+
+It O
+
+Results O
+
+international O
+
+GOLF O
+
+Boroughmuir O
+
+He O
+
+The O
+
+Sandrine B-PER
+
+Flemming B-PER
+
+Brokers O
+
+Dundee B-ORG
+
+NOUAKCHOTT O
+
+The O
+
+( O
+
+CRICKET O
+
+Dhaka B-LOC
+
+Three O
+
+Meanwhile O
+
+LOS B-ORG
+
+The O
+
+CRICKET O
+
+Men O
+
+quarter-finals O
+
+Mansfield B-ORG
+
+That O
+
+15. O
+
+-- O
+
+Worcestershire B-ORG
+
+A O
+
+7. O
+
+Italy B-LOC
+
+Belgium B-LOC
+
+Brazilian-born O
+
+Scarborough B-ORG
+
+" O
+
+The O
+
+SOCCER O
+
+Benetton B-ORG
+
+Deportivo O
+
+Leyton B-ORG
+
+First B-ORG
+
+AMERICAN B-MISC
+
+June O
+
+A. B-PER
+
+They O
+
+BOGOTA B-LOC
+
+SOCCER O
+
+Sales O
+
+July O
+
+Gascoigne O
+
+He O
+
+The O
+
+Hussain B-PER
+
+DETROIT B-ORG
+
+" O
+
+2. O
+
+4. O
+
+Life I-ORG
+
+( O
+
+THE O
+
+overs O
+
+The O
+
+1. O
+
+My O
+
+Colchester B-LOC
+
+8. O
+
+24 O
+
+Spitzbergen O
+
+German B-MISC
+
+" O
+
+The O
+
+Tentative O
+
+OFK B-ORG
+
+1533 O
+
+N. B-PER
+
+I O
+
+Police O
+
+" O
+
+It O
+
+2010 O
+
+Rwandan B-MISC
+
+CHISINAU O
+
+Quigley O
+
+Heath O
+
+Loznica B-ORG
+
+Singapore B-LOC
+
+Russian B-MISC
+
+" O
+
+One O
+
+HONG B-LOC
+
+The O
+
+NATIONAL B-MISC
+
+CHICAGO B-ORG
+
+Cunningham I-PER
+
+Constand O
+
+She O
+
+They O
+
+Third O
+
+Levy B-PER
+
+7. O
+
+Pierre O
+
+Armenia O
+
+El I-PER
+
+Waugh I-PER
+
+I O
+
+The O
+
+The O
+
+Eric B-PER
+
+A O
+
+" O
+
+Scottish B-MISC
+
+Eyewitnesses O
+
+4. O
+
+Cubs I-ORG
+
+Hull B-ORG
+
+U.N. B-ORG
+
+The O
+
+Absentee O
+
+May O
+
+It O
+
+1822 I-PER
+
+Automakers O
+
+The O
+
+6-0-26-0 O
+
+He O
+
+TENNIS O
+
+Cotti O
+
+Shares O
+
+" O
+
+Fleming O
+
+DNIB O
+
+Cofinec B-ORG
+
+Talk O
+
+What O
+
+All B-ORG
+
+Attendence O
+
+Indian B-MISC
+
+COLORADO B-LOC
+
+on O
+
+We O
+
+According O
+
+Mark B-PER
+
+" O
+
+" O
+
+In O
+
+South B-LOC
+
+Sales O
+
+11. O
+
+1. O
+
+Cowdenbeath B-ORG
+
+Kamil O
+
+Orders O
+
+The O
+
+A O
+
+SOCCER O
+
+The O
+
+... O
+
+Given O
+
+AMSTERDAM B-LOC
+
+PRESALE O
+
+Dumbarton O
+
+Viljoen B-PER
+
+Controversial O
+
+SARAJEVO B-LOC
+
+It O
+
+" O
+
+WESTERN B-MISC
+
+Belgium B-LOC
+
+Mladost B-ORG
+
+Cofinec B-ORG
+
+Fruit O
+
+5. O
+
+HK O
+
+( O
+
+Only O
+
+-- O
+
+Mark B-PER
+
+" O
+
+The O
+
+Add O
+
+Canada B-LOC
+
+They O
+
+A O
+
+U.S. B-LOC
+
+" O
+
+Financial I-ORG
+
+Economist O
+
+Mike B-PER
+
+Friday O
+
+" O
+
+June O
+
+Brunswijk B-PER
+
+BERLIN B-LOC
+
+A O
+
+There O
+
+I O
+
+3. O
+
+The O
+
+1. O
+
+" O
+
+" O
+
+taxes O
+
+He O
+
+Best O
+
+Brighton B-ORG
+
+Govt O
+
+Britain B-LOC
+
+Nasdaq B-MISC
+
+Soccer O
+
+BALTIMORE B-ORG
+
+- O
+
+New O
+
+Cuban B-MISC
+
+3. O
+
+English B-MISC
+
+BONN B-LOC
+
+I O
+
+4. O
+
+The O
+
+Samokhvalova B-ORG
+
+Southend B-ORG
+
+But O
+
+Distances O
+
+A O
+
+9. O
+
+Israel B-LOC
+
+The O
+
+The O
+
+MANILA B-LOC
+
+Balls O
+
+BOXING I-PER
+
+Analysts O
+
+- O
+
+2008 O
+
+VANCOUVER I-PER
+
+Stockport B-ORG
+
+Crowds O
+
+Women O
+
+2002 O
+
+Twilight B-PER
+
+Man O
+
+Rad B-ORG
+
+BRUSSELS B-LOC
+
+German B-MISC
+
+Commerce O
+
+287 O
+
+Portsmouth B-LOC
+
+SQUASH O
+
+Wolverhampton B-ORG
+
+Partick O
+
+Indonesian B-MISC
+
+Canada B-LOC
+
+Factory O
+
+BEIJING B-LOC
+
+ST B-ORG
+
+Former O
+
+He O
+
+Two O
+
+Tripoli-based O
+
+South B-LOC
+
+This O
+
+" O
+
+from O
+
+In O
+
+" O
+
+Scores O
+
+Titanic O
+
+4. O
+
+Bernardin O
+
+The O
+
+Hong B-LOC
+
+3. O
+
+D. B-PER
+
+LONDON B-LOC
+
+COLOMBO B-LOC
+
+DUBLIN O
+
+-- O
+
+Pakistan B-LOC
+
+Neither O
+
+Orders O
+
+New O
+
+" O
+
+Berlin B-LOC
+
+This O
+
+2. O
+
+Lithuania B-LOC
+
+New O
+
+Port B-LOC
+
+6. O
+
+Cambodia B-LOC
+
+Kaczmarek O
+
+Nolan O
+
+WIGAN O
+
+July O
+
+West B-LOC
+
+DETROIT B-ORG
+
+" O
+
+Tim B-PER
+
+" O
+
+Kent B-ORG
+
+But O
+
+Nobody O
+
+HAVANA O
+
+Blackpool B-ORG
+
+NEW B-LOC
+
+Panamanian O
+
+4. O
+
+They O
+
+I O
+
+Mamatuyev O
+
+Parnevik O
+
+TENNIS O
+
+Ayr B-ORG
+
+Austrian B-MISC
+
+Department I-ORG
+
+Xiao O
+
+Italian B-MISC
+
+NFL O
+
+Lynagh O
+
+2. O
+
+AMT O
+
+It O
+
+In O
+
+Hamilton B-ORG
+
+LONDON B-LOC
+
+He O
+
+The O
+
+By O
+
+Australia B-LOC
+
+A O
+
+The O
+
+Many O
+
+6. O
+
+" O
+
+Brunswijk B-PER
+
+England B-LOC
+
+In O
+
+" O
+
+GOLF O
+
+Pettite O
+
+Chesterfield B-ORG
+
+9. O
+
+" O
+
+DUE O
+
+1901 O
+
+Parnevik O
+
+But O
+
+Zemun O
+
+Major B-MISC
+
+Earlier O
+
+" O
+
+" O
+
+3. O
+
+Airdrieonians O
+
+" O
+
+Whenever O
+
+Net O
+
+SOCCER O
+
+Pro-Moscow O
+
+Police O
+
+But O
+
+( O
+
+1999 O
+
+While O
+
+Gonzalez O
+
+Gaddafi O
+
+" O
+
+Our O
+
+S. B-LOC
+
+1. O
+
+Prime O
+
+The O
+
+The O
+
+BAGHDAD B-LOC
+
+" O
+
+" O
+
+I O
+
+Baltimore B-LOC
+
+" O
+
+CRICKET O
+
+Ruehe B-PER
+
+The O
+
+When O
+
+Leicestershire B-ORG
+
+The O
+
+Seven O
+
+Tavildara O
+
+DUBLIN O
+
+Miller I-PER
+
+Chad O
+
+It O
+
+In O
+
+The O
+
+His O
+
+Interfax B-ORG
+
+But O
+
+" O
+
+The O
+
+FRANCE O
+
+Total O
+
+Ayr B-ORG
+
+SEOUL B-LOC
+
+Leading O
+
+Palestinians B-MISC
+
+Duffy O
+
+Romania B-LOC
+
+The O
+
+May O
+
+I O
+
+AMSTERDAM B-LOC
+
+DUBLIN O
+
+7. O
+
+The O
+
+From O
+
+In O
+
+CLEVELAND B-ORG
+
+We O
+
+Iranian B-MISC
+
+RDR B-ORG
+
+Sutjeska B-ORG
+
+10-0-38-3 O
+
+An O
+
+English B-MISC
+
+Huddersfield B-ORG
+
+Division O
+
+Incomes O
+
+The O
+
+Leading O
+
+Roosevelt I-PER
+
+It O
+
+PITTSBURGH B-ORG
+
+Bryan O
+
+25 O
+
+China B-LOC
+
+This O
+
+In O
+
+Reuters B-ORG
+
+The O
+
+Today O
+
+Belgium B-LOC
+
+Amanda B-PER
+
+American B-MISC
+
+Woods O
+
+A O
+
+Gillingham B-ORG
+
+Pirelli O
+
+A O
+
+Two O
+
+TEXAS B-ORG
+
+I O
+
+Since O
+
+( O
+
+Jones I-PER
+
+BELGRADE B-LOC
+
+BELGRADE B-LOC
+
+Shearer O
+
+ROCHESTER O
+
+Melrose O
+
+Doncaster B-ORG
+
+Attendance O
+
+refrained O
+
+" O
+
+She O
+
+Fulham B-PER
+
+Add O
+
+" O
+
+Both O
+
+Nolan O
+
+Millwall O
+
+We O
+
+Police O
+
+They O
+
+-- O
+
+The O
+
+W O
+
+2. O
+
+U.S. B-LOC
+
+PHILADELPHIA B-ORG
+
+Scores O
+
+France B-LOC
+
+CENTRAL B-MISC
+
+MONTREAL B-ORG
+
+Inverness O
+
+S. B-LOC
+
+Republic I-LOC
+
+Fernandez O
+
+Attendance O
+
+The O
+
+SOCCER O
+
+Seles I-PER
+
+TORONTO B-LOC
+
+American B-MISC
+
+Arbil I-ORG
+
+Two O
+
+MANAMA O
+
+Syria B-LOC
+
+M. B-PER
+
+This O
+
+OSCE B-ORG
+
+The O
+
+European B-MISC
+
+Leeds B-ORG
+
+" O
+
+" O
+
+Aiza O
+
+TENNIS O
+
+1998 O
+
+MINNESOTA B-ORG
+
+Norwich B-ORG
+
+France B-LOC
+
+PARIS B-LOC
+
+U.S. B-LOC
+
+London B-ORG
+
+Analysts O
+
+" O
+
+Ulsan B-ORG
+
+He O
+
+California B-LOC
+
+They O
+
+Tajikistan O
+
+Gonzalo O
+
+Scorers O
+
+Austria B-LOC
+
+9-0-49-1 O
+
+NEW B-LOC
+
+" O
+
+Emese O
+
+-- O
+
+Silva I-PER
+
+2. O
+
+July O
+
+" O
+
+MOSCOW B-LOC
+
+Wages O
+
+1. O
+
+Two O
+
+A O
+
+Jesper O
+
+Wall B-LOC
+
+1. O
+
+Women O
+
+288 O
+
+The O
+
+AL-RAM O
+
+2. O
+
+United B-LOC
+
+Red B-ORG
+
+Lithuania B-LOC
+
+Guangzhou O
+
+Revs O
+
+" O
+
+- O
+
+After O
+
+Glenn B-PER
+
+" O
+
+In O
+
+Only O
+
+" O
+
+Alba B-ORG
+
+DELIVERY O
+
+" O
+
+Division O
+
+Apic O
+
+Jay O
+
+A O
+
+ST. O
+
+It O
+
+Top O
+
+The O
+
+NEW B-LOC
+
+But O
+
+Doncaster B-ORG
+
+Barentsburg O
+
+During O
+
+A O
+
+The O
+
+It O
+
+Comelf O
+
+How O
+
+-- O
+
+Iraq B-LOC
+
+Tunbridge B-ORG
+
+17. O
+
+Death O
+
+Derbyshire O
+
+Andrei B-PER
+
+Opposition O
+
+5. O
+
+Plymouth O
+
+2. O
+
+Consumer O
+
+The O
+
+Chonnam O
+
+Carlisle O
+
+Dutch B-MISC
+
+The O
+
+Cukaricki B-ORG
+
+Hyundai B-ORG
+
+Roberto B-PER
+
+The O
+
+The O
+
+5. O
+
+A O
+
+Scorer O
+
+OB B-ORG
+
+H. B-PER
+
+R. B-PER
+
+Late O
+
+Scorers O
+
+It O
+
+The O
+
+Aziz O
+
+7. O
+
+The O
+
+Karlsruhe B-ORG
+
+a O
+
+Hove O
+
+7. O
+
+UNITED B-ORG
+
+10. O
+
+Wasim B-PER
+
+Czech B-LOC
+
+The O
+
+Al-Akhbar O
+
+But O
+
+Russian B-MISC
+
+KANSAS B-ORG
+
+They O
+
+Saturday O
+
+MILWAUKEE B-ORG
+
+Lukashenko O
+
+The O
+
+-- O
+
+Result O
+
+The O
+
+" O
+
+Romanian B-MISC
+
+Hajduk B-ORG
+
+September O
+
+July O
+
+STOCKS O
+
+Despite O
+
+3. O
+
+Syria B-LOC
+
+Chonan B-ORG
+
+May O
+
+Proleter B-ORG
+
+The O
+
+Derbyshire O
+
+Men O
+
+Bootleg O
+
+Stranraer B-LOC
+
+Automakers O
+
+They O
+
+The O
+
+Baratelli O
+
+SOCCER O
+
+Women O
+
+American B-MISC
+
+Workers I-ORG
+
+Huddersfield B-ORG
+
+Rodriguez I-PER
+
+" O
+
+The O
+
+Hanwha B-ORG
+
+Essex B-ORG
+
+Radio O
+
+Local O
+
+Some O
+
+COLOMBO B-LOC
+
+He O
+
+Lincoln B-ORG
+
+Dutch B-MISC
+
+Telgheder O
+
+8. O
+
+I O
+
+MADRID O
+
+Like O
+
+Earlier O
+
+4. O
+
+The O
+
+Canada B-LOC
+
+At O
+
+BRUSSELS B-LOC
+
+A O
+
+After O
+
+Fulham B-PER
+
+We O
+
+7. O
+
+HOUSTON B-ORG
+
+SAN B-LOC
+
+Men O
+
+-- O
+
+Revs O
+
+Chester-le-Street O
+
+3. O
+
+Pancreatic O
+
+Marc B-PER
+
+Dealers O
+
+Hyundai B-ORG
+
+" O
+
+OAKLAND B-ORG
+
+But O
+
+In O
+
+It O
+
+Huge O
+
+Aluminium B-ORG
+
+Stenhousemuir B-ORG
+
+MINSK O
+
+The O
+
+GOLF O
+
+End-of-year O
+
+South B-LOC
+
+1. O
+
+There O
+
+Adrian B-PER
+
+U.N. B-ORG
+
+Previously O
+
+Notts B-ORG
+
+8. O
+
+Proponents O
+
+" O
+
+Mauritania O
+
+6-0 O
+
+Guy B-PER
+
+" O
+
+Zeleznik B-ORG
+
+Trade B-ORG
+
+Tranmere B-ORG
+
+9. O
+
+Leading O
+
+-- O
+
+" O
+
+" O
+
+lost O
+
+NEW B-LOC
+
+News-stand O
+
+Chechnya B-LOC
+
+Lentini O
+
+four O
+
+Oldham B-ORG
+
+OAKLAND B-ORG
+
+-- O
+
+But O
+
+Bury B-ORG
+
+Dumbarton O
+
+Major B-MISC
+
+" O
+
+LOS B-ORG
+
+Cleveland B-ORG
+
+Belarus B-LOC
+
+Chinese B-MISC
+
+Austria B-LOC
+
+Shipments O
+
+5. O
+
+Suu O
+
+Attendence O
+
+The O
+
+Russia B-LOC
+
+But O
+
+We O
+
+Death O
+
+The O
+
+8-198 O
+
+Turkish B-MISC
+
+England B-LOC
+
+Farrakhan O
+
+Rochdale B-ORG
+
+I O
+
+He O
+
+Lotte B-ORG
+
+CRICKET O
+
+M. B-PER
+
+But O
+
+Buducnost B-ORG
+
+Crewe B-ORG
+
+1. O
+
+AMERICAN B-MISC
+
+Baseball O
+
+Re-education O
+
+East I-LOC
+
+2. O
+
+HONG B-LOC
+
+DUBLIN O
+
+The O
+
+Iran B-LOC
+
+Mercantile O
+
+Magna O
+
+Los B-LOC
+
+Government O
+
+MANILA B-LOC
+
+One O
+
+SAN B-LOC
+
+M2 O
+
+MOSCOW B-LOC
+
+VIENNA B-LOC
+
+A O
+
+Everything O
+
+Chartered O
+
+Bowling O
+
+Division O
+
+Passengers O
+
+Sri B-LOC
+
+" O
+
+Everton B-ORG
+
+Under O
+
+Gust O
+
+4. O
+
+I O
+
+67 O
+
+Rudar O
+
+A O
+
+Austria B-LOC
+
+Teams O
+
+You O
+
+1. O
+
+A. B-PER
+
+Rolf B-PER
+
+7. O
+
+" O
+
+Organisers O
+
+2. O
+
+But O
+
+Borussia B-ORG
+
+D. B-PER
+
+EASTERN B-MISC
+
+Penalties O
+
+4. O
+
+BEIJING B-LOC
+
+pakistan O
+
+Hashan B-PER
+
+Gillingham B-ORG
+
+1. O
+
+At O
+
+Women O
+
+1. O
+
+Division O
+
+Fifth O
+
+Analysts O
+
+Ince O
+
+TAVILDARA B-ORG
+
+: O
+
+10-0-33-2 O
+
+Jeerasak O
+
+The O
+
+7. O
+
+Sale O
+
+Edberg I-PER
+
+September O
+
+The O
+
+The O
+
+Arafat B-PER
+
+2004 O
+
+BOXING I-PER
+
+Jordan B-LOC
+
+President O
+
+The O
+
+Current O
+
+Heat O
+
+Arbroath B-ORG
+
+13. O
+
+Police O
+
+There O
+
+WASHINGTON B-LOC
+
+More O
+
+Wang B-PER
+
+CRICKET O
+
+Results O
+
+ATHLETICS O
+
+NYMEX O
+
+The O
+
+MEXICO B-LOC
+
+WORLD B-MISC
+
+Britain B-LOC
+
+WESTERN B-MISC
+
+ATLANTA B-ORG
+
+" O
+
+Bernardin O
+
+FLORIDA B-ORG
+
+UEFA B-MISC
+
+WARSAW B-LOC
+
+Australia B-LOC
+
+SOCCER O
+
+The O
+
+The O
+
+-- O
+
+I O
+
+Duisburg B-ORG
+
+Romania B-LOC
+
+ROME B-LOC
+
+Essex B-ORG
+
+KANSAS B-ORG
+
+Italy B-LOC
+
+Belgrade B-LOC
+
+Division O
+
+Longyear B-MISC
+
+Stakes I-MISC
+
+Lying O
+
+Russian B-MISC
+
+LG B-ORG
+
+Earlier O
+
+BEIJING B-LOC
+
+But O
+
+Blair B-PER
+
+Spanish B-MISC
+
+Charlton B-ORG
+
+Police O
+
+Chinese B-MISC
+
+NAIROBI B-LOC
+
+Women O
+
+FARMINGTON O
+
+Attendance O
+
+National B-ORG
+
+Wycombe B-ORG
+
+Hull B-ORG
+
+Administration O
+
+Results O
+
+BASEBALL O
+
+Bournemouth B-ORG
+
+Men O
+
+At O
+
+basketball O
+
+DAMASCUS O
+
+That O
+
+Cofinec B-ORG
+
+But O
+
+What O
+
+They O
+
+Italy B-LOC
+
+Fullback O
+
+Reuters B-ORG
+
+Romania B-LOC
+
+" O
+
+" O
+
+SOCCER O
+
+WASHINGTON B-LOC
+
+BRUSSELS B-LOC
+
+Hong B-LOC
+
+2. O
+
+It O
+
+BIRMINGHAM O
+
+SOCCER O
+
+Zairean O
+
+Authorities O
+
+Turkey B-LOC
+
+SINGAPORE B-LOC
+
+Bob B-PER
+
+Scorers O
+
+French B-MISC
+
+" O
+
+Becej O
+
+" O
+
+5. O
+
+Swansea B-ORG
+
+Scotland B-LOC
+
+The O
+
+3. O
+
+If O
+
+Shr O
+
+LOS B-ORG
+
+Chester O
+
+Adults O
+
+Azerbaijan B-LOC
+
+Pirelli O
+
+May O
+
+1. O
+
+" O
+
+soccer O
+
+The O
+
+7. O
+
+Women O
+
+SOCCER O
+
+BELGRADE B-LOC
+
+SOCCER O
+
+In O
+
+Bernardin O
+
+Teams O
+
+MINNESOTA B-ORG
+
+Cincinnati B-ORG
+
+Liberte O
+
+SOCCER O
+
+The O
+
+W O
+
+Tripoli B-LOC
+
+Result O
+
+The O
+
+Men O
+
+Although O
+
+That O
+
+On O
+
+Slovakia B-LOC
+
+But O
+
+Red B-ORG
+
+BIRMINGHAM O
+
+This O
+
+Wang B-PER
+
+Benin B-LOC
+
+Deportivo O
+
+Andre B-PER
+
+This O
+
+Maggie O
+
+BRITAIN O
+
+SOCCER O
+
+Brighton B-ORG
+
+Canadian B-MISC
+
+The O
+
+Men O
+
+The O
+
+Sunday O
+
+Dole B-PER
+
+Peterborough B-ORG
+
+The O
+
+Obilic B-ORG
+
+ISSUER O
+
+CAIRO B-LOC
+
+Around O
+
+In O
+
+Total O
+
+Saracens O
+
+He O
+
+North B-ORG
+
+Aw O
+
+Some O
+
+But O
+
+-- O
+
+SOCCER O
+
+LONDON B-LOC
+
+Aidan O
+
+JERUSALEM B-LOC
+
+Indian B-MISC
+
+Davies B-PER
+
+8. O
+
+BONN B-LOC
+
+CALL O
+
+" O
+
+LONDON B-LOC
+
+Women O
+
+Scorers O
+
+Brown I-PER
+
+ATLANTA B-ORG
+
+BASEBALL O
+
+BEIJING B-LOC
+
+Orr I-ORG
+
+Another O
+
+R. B-PER
+
+PRESS O
+
+Gains O
+
+SOCCER O
+
+Mexican B-MISC
+
+They O
+
+GOLF O
+
+Disaster O
+
+Attacks O
+
+" O
+
+The O
+
+Ingram O
+
+" O
+
+1860 B-ORG
+
+ROMANIA O
+
+Moslems B-MISC
+
+ENHANCEMENTS O
+
+Parnevik O
+
+Sanders B-ORG
+
+Norway B-LOC
+
+Springbok O
+
+SOCCER O
+
+1. O
+
+JOHANNESBURG B-LOC
+
+San B-ORG
+
+Austria B-LOC
+
+SAN B-LOC
+
+LG B-ORG
+
+10. O
+
+Nerweyi O
+
+SQUASH O
+
+The O
+
+Iran B-LOC
+
+We O
+
+MAHALA O
+
+2. O
+
+Currie O
+
+Mauritania O
+
+6. O
+
+Adds O
+
+With O
+
+NEW B-LOC
+
+DTD O
+
+" O
+
+But O
+
+Lebed B-PER
+
+1990 O
+
+Antonella O
+
+The O
+
+FLORIDA B-ORG
+
+May O
+
+Among O
+
+I O
+
+Scorer O
+
+Although O
+
+The O
+
+as O
+
+Montreal B-ORG
+
+" O
+
+Men O
+
+Officials O
+
+Salim B-PER
+
+Yeltsin B-PER
+
+Ford B-ORG
+
+starting O
+
+Chonbuk B-ORG
+
+The O
+
+MEDIA B-PER
+
+Frater O
+
+R. B-PER
+
+The O
+
+Poland B-LOC
+
+Hen O
+
+7. O
+
+Nyerere O
+
+The O
+
+3. O
+
+Wang B-PER
+
+Puchon B-ORG
+
+TUNIS O
+
+It O
+
+4. O
+
+KANSAS B-ORG
+
+FLORIDA B-ORG
+
+2. O
+
+" O
+
+May O
+
+Tell O
+
+Traders O
+
+EASTERN B-MISC
+
+The O
+
+For O
+
+HORSE O
+
+" O
+
+6. O
+
+It O
+
+The O
+
+But O
+
+Bonn B-LOC
+
+Obviously O
+
+He O
+
+" O
+
+8 O
+
+Anyang B-ORG
+
+times O
+
+Scorers O
+
+Middlesex B-ORG
+
+4. O
+
+NEW B-LOC
+
+BONN B-LOC
+
+8. O
+
+December O
+
+Business O
+
+SOCCER O
+
+Eyles B-MISC
+
+Their O
+
+Charles B-PER
+
+6. O
+
+4. O
+
+No O
+
+The O
+
+Bailey I-PER
+
+2003 B-PER
+
+Banisadr B-PER
+
+Cambodian O
+
+1. O
+
+Britain B-LOC
+
+President O
+
+SOCCER O
+
+The O
+
+We O
+
+Car O
+
+professional O
+
+They O
+
+She O
+
+Hoddle O
+
+German B-MISC
+
+England B-LOC
+
+SAN B-LOC
+
+Southend B-ORG
+
+" O
+
+HONG B-LOC
+
+EUROBONDS O
+
+Atlanta B-MISC
+
+10. O
+
+The O
+
+5. O
+
+6. O
+
+Results O
+
+The O
+
+Postponed O
+
+U.S. B-LOC
+
+Belgian B-MISC
+
+SOCCER O
+
+After O
+
+He O
+
+standings O
+
+The O
+
+Conservatives O
+
+Year O
+
+Men O
+
+COMPETITIVE O
+
+TRIPOLI B-LOC
+
+Payrolls B-MISC
+
+The O
+
+Her O
+
+Danny B-PER
+
+5. O
+
+The O
+
+The O
+
+Escaped O
+
+D. B-PER
+
+A O
+
+" O
+
+The O
+
+NY O
+
+LE B-ORG
+
+The O
+
+Scottish B-MISC
+
+SAN B-LOC
+
+Barnsley B-ORG
+
+He O
+
+A O
+
+The O
+
+For O
+
+" O
+
+AUCKLAND B-LOC
+
+CENTRAL B-MISC
+
+Note O
+
+( O
+
+8. O
+
+285 O
+
+Torquay B-ORG
+
+6. O
+
+SOCCER O
+
+6. O
+
+VENICE O
+
+LONDON B-LOC
+
+The O
+
+Scotland B-LOC
+
+- O
+
+Women O
+
+Jacquet O
+
+Current O
+
+The O
+
+Preston I-PER
+
+State B-ORG
+
+They O
+
+BASKETBALLSOCCER O
+
+World B-MISC
+
+He O
+
+Oldham B-ORG
+
+RUGBY B-ORG
+
+13. O
+
+SAN B-LOC
+
+BOSTON B-ORG
+
+Fax O
+
+Recalled O
+
+The O
+
+Hanwha B-ORG
+
+We O
+
+Scorers O
+
+The O
+
+Canadian B-MISC
+
+" O
+
+New O
+
+TORONTO B-LOC
+
+Tens O
+
+-- O
+
+( O
+
+that O
+
+Algeria B-LOC
+
+Chesterfield B-ORG
+
+" O
+
+The O
+
+Fall O
+
+A O
+
+HERZLIYA O
+
+They O
+
+Stenhousemuir B-ORG
+
+October O
+
+Naina O
+
+June O
+
+Ruling O
+
+JAPAN O
+
+The O
+
+He O
+
+LONDON B-LOC
+
+8. O
+
+I O
+
+About O
+
+Tavildara O
+
+The O
+
+They O
+
+TENNIS O
+
+Jeff B-PER
+
+8. O
+
+MINNESOTA B-ORG
+
+CHICAGO B-ORG
+
+It O
+
+COLORADO B-LOC
+
+The O
+
+In O
+
+international O
+
+It O
+
+Grimsby B-ORG
+
+Romesh B-PER
+
+Multinational O
+
+Underwriters O
+
+Poland B-LOC
+
+" O
+
+It O
+
+18. O
+
+" O
+
+RIGA O
+
+SOCCER O
+
+Men O
+
+HOUSTON B-ORG
+
+The O
+
+7. O
+
+Inzamam-ul-Haq B-PER
+
+The O
+
+Orr I-ORG
+
+Falkirk O
+
+Partizan B-ORG
+
