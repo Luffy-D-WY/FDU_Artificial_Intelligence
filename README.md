@@ -1,0 +1,2 @@
+# FDU_Artificial_Intelligence
+2024春季学期人工智能课程
